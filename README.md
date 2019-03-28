@@ -76,3 +76,5 @@ value of `delegatedDraggable`.
 #### 0.26.0
 
 - added the ability to remove specific drag/drop handlers (previous we could only completely switch off drag/drop) 
+
+The other add 
